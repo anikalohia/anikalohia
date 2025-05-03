@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anikalohia
-- 👀 I’m interested in coding and learning different computer languages.
+- 👀 I’m interested in coding and developing raw and unique idea based projects.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on different projects with big MNCs
 - 📫 How to reach me 
